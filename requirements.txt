@@ -1,0 +1,7 @@
+bettercam
+onnxruntime-gpu
+numpy
+opencv-python
+dearpygui
+pynput
+onnx
