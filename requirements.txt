@@ -1,5 +1,6 @@
 bettercam
-onnxruntime-gpu
+onnxruntime-directml
+pywin32
 numpy
 opencv-python
 dearpygui
